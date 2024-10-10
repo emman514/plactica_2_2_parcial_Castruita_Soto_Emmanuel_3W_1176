@@ -1,0 +1,2 @@
+# plactica_2_2_parcial_Castruita_Soto_Emmanuel_3W_1176
+programa de funciones
